@@ -7,7 +7,6 @@ while temp > 0:
     digit = temp % 10
     sum_of_powers += digit ** num_digits
     temp //= 10
-
 if sum_of_powers == n:
     print(f"{n} is an Armstrong number")
 else:
