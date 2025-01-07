@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3779715c-fe9e-4a71-a8f8-148e2a6a65c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Armstrong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primenumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,19 +34,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.Armstrong.executor": "Run",
+    "Python.Armstrong.executor": "Debug",
     "Python.count vowels.executor": "Run",
+    "Python.factorial.executor": "Run",
     "Python.fiboonaci.executor": "Run",
     "Python.matched and unmatched.executor": "Run",
     "Python.palindrome.executor": "Run",
+    "Python.primenumber.executor": "Run",
     "Python.reverse.executor": "Run",
     "Python.set matched and unmatched element.executor": "Run",
     "Python.zip.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "deepika-dev"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Armstrong">
+  <component name="RunManager" selected="Python.primenumber">
     <configuration name="Armstrong" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -67,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="countvowels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\interview\pythonProject\countvowels.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/factorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="primenumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,7 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reverse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/primenumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.primenumber" />
+        <item itemvalue="Python.factorial" />
         <item itemvalue="Python.Armstrong" />
         <item itemvalue="Python.palindrome" />
         <item itemvalue="Python.fiboonaci" />
-        <item itemvalue="Python.countvowels" />
-        <item itemvalue="Python.reverse" />
       </list>
     </recent_temporary>
   </component>
